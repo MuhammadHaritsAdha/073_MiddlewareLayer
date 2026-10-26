@@ -7,3 +7,11 @@ Test GET
 Test POST
 
 <img width="479" height="325" alt="Screenshot 2026-10-26 111147" src="https://github.com/user-attachments/assets/c64d3e8f-c84a-4f44-8323-754ef0f0d3e9" />
+
+
+
+Test PUT
+
+<img width="479" height="325" alt="Screenshot 2026-10-26 111449" src="https://github.com/user-attachments/assets/d2570551-292f-49c7-8053-a8bc63ffe3e2" />
+
+
